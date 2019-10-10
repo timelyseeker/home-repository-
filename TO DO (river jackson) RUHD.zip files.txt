@@ -1,0 +1,41 @@
+﻿TO DO …..
+
+
+
+
+* Install github desktop 
+* Create repository on GitHub
+--------------------------------------------------------------------------------------------------------------------------------
+Expand the RUHD game zip files/ add more mobs, and sounds. start creating game music. 
+Add locations and create a graphic map of game space, then decide whether it should be infinite or not. 
+
+
+
+
+* Create first texture for land/ terrain 
+* Work on water design 
+* Create first  hostile mob sound. 
+* began working with unity and github to learn coding and game design.
+
+
+> what will the mob textures look like?
+> what will the first hostile mob look like
+> water should have different colors for different heat temps and biome type. 
+> biome choice? What will the most common biome be? 
+> add biome heat
+> create and add terrain in inkscape 
+> make rock textures/ leaves/ bushes/ pebbles/ tree shape and color
+> seasons? 
+> magic? Level ups? Ect. … 
+>                            insert here later                          <            
+> modern or medieval style texture 
+Add medieval buildings and towns/ cities of villagers/ NPC’s
+> different game modes like minecraft?
+^
+Hard, peaceful, difficult, UHC, calm, ect… 
+> different dragon sounds for each species?
+^dragon sounds differ in species, size, type, rank like alpha or beta male.
+> clouds? 
+^ 
+Settings to choose graphics / graphics settings and 
+On/ Off settings …
